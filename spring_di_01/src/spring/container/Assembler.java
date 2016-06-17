@@ -10,7 +10,7 @@ import spring.service.ServiceImpl;
 
 public class Assembler { 
 	
-/*	public Dao getBean(){
+/*	public Dao getBean(){ 몰라
 		//return new MybatisDaoImpl();
 		return new JdbcDaoImpl();		//~
 */	
